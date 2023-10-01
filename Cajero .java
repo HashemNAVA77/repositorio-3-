@@ -25,7 +25,6 @@ public class Cajero automatico {
            double  deposito = 
                Scanner.nextDouble();
                 saldo += depocito;
-           
            System.out.print("Realizo depocito. Su nuevo saldo es: $" + saldo);
            break;
            
