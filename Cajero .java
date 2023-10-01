@@ -13,7 +13,7 @@ public class Cajero automatico {
        System.out.print("2. Realizar depocito ");
        System.out.print("3.Realizar retiro ");
        
-       int opcion = scanner.nextInt();
+      int opcion = scanner.nextInt();
        
        
        switch (opcion){
